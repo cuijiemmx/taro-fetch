@@ -1,4 +1,4 @@
-const fetch = function(url, { method, body, headers }) {
+function fetch(url, { method, body, headers }) {
   return new Promise(resolve => {
     wx.request({
       url,
