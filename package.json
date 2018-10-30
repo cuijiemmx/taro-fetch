@@ -1,5 +1,5 @@
 {
-  "name": "taro-fetch",
+  "name": "@tarojs/fetch",
   "version": "1.0.0",
   "description": "a fetch ponyfill for tarojs",
   "main": "./lib/index.js",
